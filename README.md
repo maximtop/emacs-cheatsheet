@@ -1,6 +1,6 @@
 # My Emacs Cheatsheet
 
-Undo command `C-/`
+Undo command **`C-/`**
 
-Copy command `M-w`
+Copy command **`M-w`**
 
