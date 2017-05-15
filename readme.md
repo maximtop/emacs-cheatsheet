@@ -10,3 +10,5 @@ Select Region command **`M-e C-space M-a`**
 
 Open file command **`C-x C-f`**
 
+Open file command **`C-x k`**
+
